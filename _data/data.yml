@@ -49,17 +49,13 @@ career-profile:
     title: Career Profile
     summary: |
       I am a methodical, enterprising, dynamic and creative person with well developed skills and experience in the IT industry working in ecommerce, logistics, finantce and the public sector.
-      
       I have 10+ years of experience in Java and Salesforce development and business analysis which has helped me become an architect with a strong client focus.
-      
       Passionate about building bridges, empowering people, driving digital transformation and making positive impact on the community.
-
 education:
     - degree: Software Engineew
       university: Universidad Nacional de La Matanza
       time: 2008 - 2010
       details: |
-
 experiences:
 
     - role: Software Architect
