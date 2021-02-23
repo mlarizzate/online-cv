@@ -70,10 +70,11 @@ experiences:
       company: Secretaría de Innovación Pública, Buenos Aires
       details: |
         Active role on Reengineering strategy of Digital Government Platform , I collaborate in the following tasks:
-        • Development monitoring.
-        • Supervision of the development of the Test Automation Laboratory.
-        • Supervision of Digital sign architecture implementation and support.
-        • Implementation of Openshift.
+        
+        - Development monitoring.        
+        - Supervision of the development of the Test Automation Laboratory.        
+        - Supervision of Digital sign architecture implementation and support.        
+        - Implementation of Openshift.
         
     - role: SalesfoceDeveloper
       time: Nov 2018 - May 2020
@@ -94,13 +95,13 @@ experiences:
         I work with internal accounts from Latam, US and Canada in a multicultural environment.
 
         Technologies Involded in my tasks:
-        • Java 8 + Spring
-        • JMS Queues
-        • XML
-        • XSL Transformations
-        • GitHub
-        • Ubuntu & Cent OS
-        • Jenkins
+        - Java 8 + Spring
+        - JMS Queues
+        - XML
+        - XSL Transformations
+        - GitHub
+        - Ubuntu & Cent OS
+        - Jenkins
 
     - role: SAP Hybris Business Analyst
       time: Apr 2017 - May 2018
