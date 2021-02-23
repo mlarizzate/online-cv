@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Martin Larizzate ☁️
-    tagline: Salesforce Developer
+    tagline: Software Architect | JAVA - Salesforce
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,9 +17,9 @@ sidebar:
     website: https://mlarizzate.github.io #do not add http://
     linkedin: martinlarizzate
     github: mlarizzate
-    gitlab:
+    gitlab: larizzatem
     bitbucket:
-    twitter: 
+    twitter: javaspringer
     stack-overflow: 6548978/martin-larizzate # Number/Username, e.g. 123456/alandoe
     salesforce-trailhead: mlarizzate #username, e.g mlarizzate
     codewars:
@@ -48,20 +48,29 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a methodical, organized and analytical person. I have a personal base of entrepreneurship, proactivity and good social skills, combined with varied professional experience in IT as Java back-end developer,  business analyst oriented to electronic commerce and right now así a Salesforce Developer.
-      I have 10+ years of experience in Software Industry working in Engineering, Analysis and Development.
-      I had independently carried out several personal e-commerce projects included Grafica Gilwell, where I worked, for 5 years in addition to my formal employment, managing the e-commerce program.
-      I also have 5 years of experience in formal and non-formal education: training young people in high schools through private classes in algorithms and programming, and as a non-formal educator in scouting.
-      Passionate about building bridges, empowering people, driving digital tranformation and making positive impact on the community.
-      I really enjoy the learning that each opportunity represents and constantly seek to extend that spirit to the rest of the team.
+      I am a methodical, enterprising, dynamic and creative person with well developed skills and experience in the IT industry working in ecommerce, logistics, finantce and the public sector.
+      I have 10+ years of experience in Java and Salesforce development and business analysis which has helped me become an architect with a strong client focus.
+      Passionate about building bridges, empowering people, driving digital transformation and making positive impact on the community.
 education:
-    - degree: Software Engineer
+    - degree: Software Engineew
       university: Universidad Nacional de La Matanza
-      time: 2008 - 2012 (Incomplete)
+      time: 2008 - 2010
       details: |
 experiences:
-    - role: Salesforce Developer
-      time: Nov 2018 - Present
+
+    - role: Software Architect
+      time: May 2020 - Present
+      company: Secretaría de Innovación Pública, Buenos Aires
+      details: |
+        Active role on Reengineering strategy of Digital Government Platform , I collaborate in the following tasks:
+        
+        - Development monitoring.        
+        - Supervision of the development of the Test Automation Laboratory.        
+        - Supervision of Digital sign architecture implementation and support.        
+        - Implementation of Openshift.
+        
+    - role: SalesfoceDeveloper
+      time: Nov 2018 - May 2020
       company: True North, Buenos Aires
       details: |
         This project is a digital transformation for an Asset Management company located in HONG KONG
@@ -105,6 +114,19 @@ experiences:
         - NinjaMock
         - Jenkins
         - SonarQube
+projects:
+    title: Open Source Projects
+    intro: >
+      These are the open projects which I'm developing with friends and collaborators. 
+      My main objective is building a ultra-light and scalable solution which implements PKI Architecture with easy setup in a cloud environment.
+    assignments:
+      - title: Skeeter
+        link: "https://gitlab.com/laboratorio9/skeeter"
+        tagline: "Ultra-light web api to generate Documents in PDF format with origin in multiple formats. Its architecture proposes a plug-in installation through the use of containers.Do you need this solution? Just use it!" 
+      - title: Martelo
+        link: "#"
+        tagline: "It's Just a dream. Ultra-light web api for digital document signing"
+      
 publications:
     title: Independent Writer
     intro: |
@@ -135,6 +157,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Java + Spring
+        level: 90%
+        
       - name: Salesforce Apex
         level: 80%
 
@@ -146,9 +171,6 @@ skills:
 
       - name: HTML5 & CSS
         level: 50%
-
-      - name: Java + Spring
-        level: 90%
 
       - name: Business Analysis
         level: 90%
