@@ -75,7 +75,7 @@ experiences:
         • Supervision of Digital sign architecture implementation and support.
         • Implementation of Openshift.
         
-
+    - role: SalesfoceDeveloper
       time: Nov 2018 - May 2020
       company: True North, Buenos Aires
       details: |
@@ -94,13 +94,13 @@ experiences:
         I work with internal accounts from Latam, US and Canada in a multicultural environment.
 
         Technologies Involded in my tasks:
-        - Java 8 + Spring
-        - JMS Queues
-        - XML
-        - XSL Transformations
-        - GitHub
-        - Ubuntu & Cent OS
-        - Jenkins
+        • Java 8 + Spring
+        • JMS Queues
+        • XML
+        • XSL Transformations
+        • GitHub
+        • Ubuntu & Cent OS
+        • Jenkins
 
     - role: SAP Hybris Business Analyst
       time: Apr 2017 - May 2018
@@ -135,14 +135,13 @@ projects:
     intro: >
       These are the open projects which I'm developing with friends and collaborators. 
       My main objective is building a ultra-light and scalable solution which implements PKI Architecture with easy setup in a cloud environment.
-   assignments:
-    - title: Skeeter
-      link: "https://gitlab.com/laboratorio9/skeeter"
-      tagline: "Ultra-light web api to generate Documents in PDF format with origin in multiple formats. Its architecture proposes a plug-in installation through the use of containers.Do you need this solution? Just use it!" 
-  assignments:
-    - title: Martelo
-      link: "#"
-      tagline: "It's Just a dream. Ultra-light web api for digital document signing"
+    assignments:
+      - title: Skeeter
+        link: "https://gitlab.com/laboratorio9/skeeter"
+        tagline: "Ultra-light web api to generate Documents in PDF format with origin in multiple formats. Its architecture proposes a plug-in installation through the use of containers.Do you need this solution? Just use it!" 
+     - title: Martelo
+       link: "#"
+       tagline: "It's Just a dream. Ultra-light web api for digital document signing"
       
 publications:
     title: Independent Writer
